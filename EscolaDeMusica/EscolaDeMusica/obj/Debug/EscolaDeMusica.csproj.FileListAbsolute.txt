@@ -1,0 +1,543 @@
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojResolveAssemblyReference.cache
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+D:\Users\henri\Documents\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojAssemblyReference.cache
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.cache
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.CopyComplete
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.novo.resources
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+C:\Users\Paulo Eduardo Gobor\Desktop\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+E:\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojResolveAssemblyReference.cache
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginCliente.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginCliente.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.novo.resources
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+D:\Users\henri\Desktop\Projeto EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojAssemblyReference.cache
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginCliente.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+C:\Users\estagiario.ti\Desktop\C#My\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojResolveAssemblyReference.cache
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+D:\Users\henri\Desktop\Atualizado\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.criarBanco.resources
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\Projeto Henrique-20180920T114857Z-001\Projeto Henrique\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.comida.resources
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojAssemblyReference.cache
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.CoreCompileInputs.cache
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.CopyComplete
+E:\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.CriarBanco.resources
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlunoPorCurso.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlunoPorCurso.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.CriarBanco.resources
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+C:\Users\Ale\Desktop\EscolaDeMusica_\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+C:\Users\Ale\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+C:\Users\Ale\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlunoPorCurso.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlunoPorCurso.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.Aluno.resources
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe.config
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.exe
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.pdb
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlunoPorCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\App.g.cs
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.cache
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica_MarkupCompile.lref
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.exe
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EscolaDeMusica.pdb
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.dll
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.dll
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.xml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\bin\Debug\EntityFramework.SqlServer.xml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlterarInstrumento.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmAlunoPorCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarAluno.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCliente.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarInstrumento.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarMatricula.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVenda.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmCadastrarVendedor.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarAlunos.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarClientes.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarCursos.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarInstrumentos.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmListarVendedores.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAdministrador.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginAluno.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmLoginVendedor.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAdministrador.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuAluno.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmMenuVendedor.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmPrincipal.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverCurso.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\View\frmRemoverInstrumento.baml
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.g.resources
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Properties.Resources.resources
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.GenerateResource.Cache
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.Migrations.DescricaoCurso.resources
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csprojAssemblyReference.cache
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.CoreCompileInputs.cache
+E:\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\EscolaDeMusica\obj\Debug\EscolaDeMusica.csproj.CopyComplete

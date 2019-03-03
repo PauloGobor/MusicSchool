@@ -1,0 +1,53 @@
+﻿<Window x:Class="EscolaDeMusica.View.frmCadastrarVenda"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EscolaDeMusica.View"
+        mc:Ignorable="d"
+        Title="frmCadastrarVenda" Height="450" Width="800" Loaded="Window_Loaded_1" >
+    <Window.Background>
+        <ImageBrush ImageSource="/EscolaDeMusica;component/Image/582x0_519ed740ae826.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Label Content="Cadastrar Venda" HorizontalAlignment="Left" Margin="24,28,0,0" VerticalAlignment="Top" Width="273" FontWeight="Bold" FontSize="25" Foreground="#FFD9FF00"/>
+        <Label Content="CPF Cliente:" HorizontalAlignment="Left" Margin="23,172,0,0" VerticalAlignment="Top" Width="109" FontSize="16" FontWeight="Bold" Height="30" Foreground="#FFD9FF00"/>
+        <Label Content="CPF Vendedor:" HorizontalAlignment="Left" Margin="12,207,0,0" VerticalAlignment="Top" Width="122" FontSize="16" FontWeight="Bold" Height="30" Foreground="#FFD9FF00"/>
+        <TextBox x:Name="txtClienteCpf" HorizontalAlignment="Left" Height="30" Margin="137,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="0"/>
+        <TextBox x:Name="txtVendedorCpf" HorizontalAlignment="Left" Height="30" Margin="137,207,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="1"/>
+        <Button x:Name="btnCadastrarVenda" Content="Cadastrar" HorizontalAlignment="Left" Margin="673,378,0,0" VerticalAlignment="Top" Width="111" Height="32" FontSize="15" Click="btnCadastrarVenda_Click" TabIndex="5" Foreground="#FFD9FF00">
+            <Button.Background>
+                <SolidColorBrush Color="#FF0B0B0B" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Cancelar" HorizontalAlignment="Left" Margin="579,378,0,0" VerticalAlignment="Top" Width="73" RenderTransformOrigin="-0.786,0.539" Height="32" FontSize="15" Click="Button_Click" TabIndex="4" Foreground="#FFD9FF00">
+            <Button.Background>
+                <SolidColorBrush Color="#FF0B0B0B" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Quantidade:" HorizontalAlignment="Left" Margin="12,277,0,0" VerticalAlignment="Top" Height="30" Width="170" FontSize="16" FontWeight="Bold" Foreground="#FFD9FF00"/>
+        <Label Content="Instrumento:" HorizontalAlignment="Left" Margin="12,242,0,0" VerticalAlignment="Top" Width="170" FontSize="16" FontWeight="Bold" Height="30" Foreground="#FFD9FF00"/>
+        <TextBox x:Name="txtQuantidadeInstrumento" HorizontalAlignment="Left" Height="30" Margin="137,277,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="2"/>
+        <ComboBox x:Name="cbInstrumentos" HorizontalAlignment="Left" Margin="137,242,0,0" VerticalAlignment="Top" Width="167" Height="30"/>
+        <Button x:Name="btnAdicionarItemVenda" Content="Adicionar" HorizontalAlignment="Left" Margin="137,378,0,0" VerticalAlignment="Top" Width="167" Height="32" FontSize="15" Click="btnAdionarItemVenda" TabIndex="3" Foreground="#FFD9FF00">
+            <Button.Background>
+                <SolidColorBrush Color="#FF0B0B0B" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+        <DataGrid x:Name="dtaVendas" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="135" Margin="316,172,0,0" VerticalAlignment="Top" Width="468">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Instrumento"
+                                  Width="120" Binding="{Binding Instrumento.Nome}"/>
+                <DataGridTextColumn Header="Quantidade"
+                                  Width="120" Binding="{Binding Quantidade}"/>
+                <DataGridTextColumn Header="Preço"
+                                  Width="140" Binding="{Binding Instrumento.Preço}"/>
+
+                <DataGridTextColumn Header="Subtotal"
+                                  Width="120" Binding="{Binding Subtotal}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lblTotal" Content="" HorizontalAlignment="Left" Margin="316,336,0,0" VerticalAlignment="Top" Width="197" Foreground="#FFEA1313" FontSize="20" FontWeight="Bold"/>
+    </Grid>
+</Window>

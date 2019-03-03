@@ -1,0 +1,31 @@
+﻿<Window x:Class="EscolaDeMusica.View.frmCadastrarCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EscolaDeMusica.View"
+        mc:Ignorable="d"
+        Title="frmCadastrarCliente" Height="407.385" Width="780.612">
+    <Window.Background>
+        <ImageBrush ImageSource="/EscolaDeMusica;component/Image/guitarra.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TxtNome" HorizontalAlignment="Left" Height="27" Margin="100,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TabIndex="0"/>
+        <Label x:Name="lblNome" Content="Nome:" HorizontalAlignment="Left" Height="27" Margin="10,104,0,0" VerticalAlignment="Top" Width="85" FontSize="16" FontWeight="Bold" >
+            <Label.Foreground>
+                <SolidColorBrush Color="#FF20F023"/>
+            </Label.Foreground>
+        </Label>
+        <Label x:Name="lblCpf" Content="CPF:" HorizontalAlignment="Left" Height="27" Margin="10,156,0,0" VerticalAlignment="Top" Width="85" FontSize="16" FontWeight="Bold" RenderTransformOrigin="0.499,1.659" Foreground="#FF20F023"/>
+        <TextBox x:Name="TxtCpf" HorizontalAlignment="Left" Height="27" Margin="100,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TabIndex="1"/>
+        <Button x:Name="BtnCadastrarCliente" Content="Cadastrar" HorizontalAlignment="Left" Margin="204,279,0,0" VerticalAlignment="Top" Width="93" RenderTransformOrigin="-0.786,0.539" Height="32" FontSize="15" Click="BtnCadastrarCliente_Click" TabIndex="4" Background="#FF20F023" FontFamily="Segoe UI Semibold"/>
+        <Button x:Name="BtnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="44,279,0,0" VerticalAlignment="Top" Width="93" RenderTransformOrigin="-0.786,0.539" Height="32" FontSize="15" Click="BtnCancelar_Click_1" TabIndex="3" Foreground="#FF050505" Background="#FF20F023" FontFamily="Segoe UI Semibold"/>
+        <Label x:Name="label" Content="CADASTRAR CLIENTE" HorizontalAlignment="Left" Margin="24,28,0,0" VerticalAlignment="Top" Width="273" FontWeight="Bold" FontSize="25" Foreground="#FFD9FF00"/>
+        <Label x:Name="lblSenhaCliente" Content="Senha:" HorizontalAlignment="Left" Height="27" Margin="10,211,0,0" VerticalAlignment="Top" Width="85" FontSize="16" FontWeight="Bold" RenderTransformOrigin="0.499,1.659" Foreground="#FF20F023"/>
+        <PasswordBox x:Name="psdSenhaCliente" HorizontalAlignment="Left" Height="27" Margin="100,211,0,0" VerticalAlignment="Top" Width="138" TabIndex="2"/>
+
+    </Grid>
+</Window>

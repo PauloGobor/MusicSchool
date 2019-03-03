@@ -1,0 +1,48 @@
+﻿<Window x:Class="EscolaDeMusica.View.frmPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EscolaDeMusica.View"
+        mc:Ignorable="d"
+        Title="frmPrincipal" Height="488.594" Width="788.376">
+    <Grid x:Name="grdPrincipal" Margin="0,-33,0,-0.4" HorizontalAlignment="Left" Width="497" ScrollViewer.HorizontalScrollBarVisibility="Auto">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="782" Margin="0,78,-285.2,0">
+            <MenuItem Header="Aluno" Height="50" Width="101" FontSize="20" Background="#FF0096FF" FontWeight="Bold" FontFamily="Comic Sans MS" Foreground="#FFCBFF00" BorderBrush="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" TextOptions.TextFormattingMode="Display">
+                <MenuItem Header="Fazer Login" HorizontalAlignment="Left" Width="235" FontSize="16" Margin="0,0,-0.8,0" Height="30" Background="#FF00FFC8" Click="MenuLoginAluno"/>
+                <MenuItem Header="Fazer Cadastro" HorizontalAlignment="Left" Width="235" Height="30" FontSize="16" Background="#FF00FFC8" Click="MenuCadastrarAluno"/>
+                <MenuItem Header="Listar Alunos" HorizontalAlignment="Left" Width="235" Height="30" FontSize="16" Background="#FF00FFC8" Click="MenuListarAlunos"/>
+            </MenuItem>
+            <MenuItem Header="Cursos" Height="50" Width="96" FontSize="20" Background="#FF0096FF" FontWeight="Bold" FlowDirection="RightToLeft" FontFamily="Comic Sans MS" Foreground="#FFCBFF00" BorderBrush="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" >
+                <MenuItem Header="Listar Cursos" HorizontalAlignment="Left" Width="220" Height="30" Background="#FF00FFC8" Click="MenuListarCursos" Margin="0,0,-44,0"/>
+                <MenuItem Header="Listar Alunos" HorizontalAlignment="Left" Width="220" Height="30" Background="#FF00FFC8" Click="MenuListarAlunosPorCurso" Margin="0,0,-44,0"/>
+            </MenuItem>
+            <MenuItem Header="Cliente" Height="51" Width="113" FontSize="20" Background="#FF0096FF" FontFamily="Comic Sans MS" FontWeight="Bold" Foreground="#FFCBFF00">
+                <MenuItem Header="Fazer Cadastro" HorizontalAlignment="Left" Background="#FF00FFC8" Height="30" Width="247" Click="MenuCadastrarCliente" Margin="-13,0,-51.6,0"/>
+            </MenuItem>
+            <MenuItem Header="_Vendedor" Height="50" Width="126" FontSize="20" Background="#FF0096FF" FontWeight="Bold" FlowDirection="RightToLeft" FontFamily="Comic Sans MS" Foreground="#FFCBFF00" BorderBrush="Black">
+                <MenuItem Header="Fazer Login" HorizontalAlignment="Left" Width="236" Height="30" Margin="0,0,-25.8,0" FontSize="16" Background="#FF00FFC8" Click="MenuLoginVendedor" />
+                <MenuItem Header="Listar Vendedores" HorizontalAlignment="Left" Width="251" Height="30" FontSize="16" Margin="-14,0,-20.2,0" Background="#FF00FFC8" Click="MenuListarVendedores" />
+            </MenuItem>
+            <MenuItem Header="Instrumentos" FontSize="20" Height="50" Width="180" Background="#FF0096FF" FontWeight="Bold" FlowDirection="RightToLeft" FontFamily="Comic Sans MS" Foreground="#FFCBFF00" BorderBrush="Black" >
+                <MenuItem Header="Instrumentos Disponíveis" HorizontalAlignment="Left" Width="331" Background="#FF00FFC8" Click="MenuListarInstrumentos" Margin="-32,0,-10.2,0" FontSize="20"/>
+            </MenuItem>
+            <MenuItem Header="Administrador" FontSize="20" Height="50" Width="165" Background="#FF0096FF" FontWeight="Bold" FlowDirection="RightToLeft" FontFamily="Comic Sans MS" Foreground="#FFCBFF00" BorderBrush="Black" >
+                <MenuItem Header="Fazer Login" HorizontalAlignment="Right" Background="#FF00FFC8" Height="30" Width="197" Click="MenuLoginAdministrador" Margin="-15,0,0.4,0"/>
+            </MenuItem>
+        </Menu>
+        <Label x:Name="label" Content="BEM VINDO A ESCOLA DO ROCK" HorizontalAlignment="Center" Height="45" Margin="0,33,-285.2,0" VerticalAlignment="Top" Width="782" FontSize="30" FontWeight="ExtraBold" FontStyle="Italic" HorizontalContentAlignment="Center">
+            <Label.Background>
+                <ImageBrush ImageSource="/EscolaDeMusica;component/Image/musica.png" Stretch="UniformToFill"/>
+            </Label.Background>
+        </Label>
+        <Image Source="/EscolaDeMusica;component/Image/Principal.jpg" x:Name="Principal" Height="363" Margin="0,130,-285.2,-0.2" VerticalAlignment="Top" Tag="Principal" OverridesDefaultStyle="True" HorizontalAlignment="Center" MinHeight="250" Width="782" Stretch="Uniform"/>
+
+    </Grid>
+</Window>

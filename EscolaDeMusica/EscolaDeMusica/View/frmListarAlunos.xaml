@@ -1,0 +1,35 @@
+﻿<Window x:Class="EscolaDeMusica.View.frmListarAlunos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EscolaDeMusica.View"
+        mc:Ignorable="d"
+        Title="frmListarAlunos" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/EscolaDeMusica;component/Image/partitura.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="btnFechar" Content="Fechar" HorizontalAlignment="Left" Margin="20,355,0,0" VerticalAlignment="Top" Width="100" Height="27" FontSize="15" Click="button_Click" Foreground="White" FontFamily="Segoe UI Semibold">
+            <Button.Background>
+                <SolidColorBrush Color="#FF001FFF" Opacity="0.94"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Lista de Alunos" HorizontalAlignment="Left" Margin="27,29,0,0" VerticalAlignment="Top" Width="194" FontSize="18" FontWeight="Bold" Foreground="#FF001FFF"/>
+        <DataGrid x:Name="dtaAlunos" AutoGenerateColumns="false" HorizontalAlignment="Left" Margin="40,85,0,0" VerticalAlignment="Top" Height="245" Width="679" ForceCursor="True" SnapsToDevicePixels="True">
+            <DataGrid.Background>
+                <SolidColorBrush Color="#FF080808" Opacity="0.5"/>
+            </DataGrid.Background>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nome" 
+                                    Width="190" Binding="{Binding Nome}"/>
+                <DataGridTextColumn Header="CPF" 
+                                    Width="190" Binding="{Binding Cpf}"/>
+                <DataGridTextColumn Header="Nascimento" 
+                                    Width="190" Binding="{Binding Nascimento}"/>
+                <DataGridTextColumn Header="Telefone" 
+                                    Width="190" Binding="{Binding Telefone}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
